@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0px;
+	padding:0px;
+	background:url(IMAGENES/fondo%20tienda.jpg);
+	background-size:cover;
+}
+#color{
+	background-color:#000000;
+	color:#FFFFFF;
+	font-size:13px;
+	width:auto;
+	height:20px;
+	}
+#fon1{
+	background-color:#393939;
+	height: 25px;
+	width:auto;
+}
+#inic{
+	margin-left:1000px;
+	color:#FFFFFF;
+	text-decoration:none;
+}
+#inic:hover{
+	color:#C5C2BE;
+	text-decoration:none;
+}
+#zap{
+	margin-left:950px;
+	margin-top:-125px;
+}
+#pol{
+	margin-left:835px;
+	margin-top:-165px;
+}
+#pan{
+	margin-left:715px;
+	margin-top:-205px;
+}
+#logo{
+	margin-left:-860px;
+	margin-top:-200px;
+}
+#txt1{
+	font-weight:bold;
+	font-size:40px;
+	margin-left:120px;
+	margin-top:-160px;
+	color:#FFFFFF;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#txt2{
+	font-weight:bold;
+	font-size:35px;
+	margin-left:147px;
+	margin-top:-19px;
+	color:#FFFFFF;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+#espa{
+	margin-top:3px;
+}
